@@ -1,4 +1,4 @@
-#install PHP 8.1, PHP extensions, Composer 2.2.7, Node 14.18.1, Bengali font
+#iiinstall PHP 8.1, PHP extensions, Composer 2.2.7, Node 14.18.1, Bengali font
 #! /bin/sh
 
 echo $(date '+%d/%m/%Y %H:%M:%S')
